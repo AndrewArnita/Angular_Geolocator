@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+   creator="MTK - http://www.toursprung.com"
+   xmlns="http://www.topografix.com/GPX/1/1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+   xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+   xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+   targetNamespace="http://www.topografix.com/GPX/1/1"
+   elementFormDefault="qualified">
+   <metadata>
+      <name><![CDATA[Mongollon Gourt to Ale republic]]></name>
+      <desc><![CDATA[<p>
+	from Emergency road access point to ale republic</p>
+]]></desc>
+   </metadata>
+   
+      <trk><name><![CDATA[Mongollon Gourt to Ale republic]]></name><desc><![CDATA[<p>
+	from Emergency road access point to ale republic</p>
+]]></desc><trkseg>
+         <trkpt lat="35.12573" lon="-106.35361"><ele>2135</ele></trkpt>
+<trkpt lat="35.1257" lon="-106.35335"><ele>2133</ele></trkpt>
+<trkpt lat="35.1257" lon="-106.35335"><ele>2133</ele></trkpt>
+<trkpt lat="35.12555" lon="-106.35287"><ele>2130</ele></trkpt>
+<trkpt lat="35.12552" lon="-106.35276"><ele>2128</ele></trkpt>
+<trkpt lat="35.12552" lon="-106.35276"><ele>2128</ele></trkpt>
+<trkpt lat="35.12556" lon="-106.35259"><ele>2126</ele></trkpt>
+<trkpt lat="35.12556" lon="-106.35237"><ele>2124</ele></trkpt>
+<trkpt lat="35.12559" lon="-106.35214"><ele>2121</ele></trkpt>
+<trkpt lat="35.12578" lon="-106.35201"><ele>2120</ele></trkpt>
+<trkpt lat="35.12603" lon="-106.35208"><ele>2121</ele></trkpt>
+<trkpt lat="35.12637" lon="-106.35202"><ele>2121</ele></trkpt>
+<trkpt lat="35.12665" lon="-106.35199"><ele>2121</ele></trkpt>
+<trkpt lat="35.12729" lon="-106.35208"><ele>2123</ele></trkpt>
+<trkpt lat="35.12798" lon="-106.35248"><ele>2128</ele></trkpt>
+<trkpt lat="35.12798" lon="-106.35248"><ele>2128</ele></trkpt>
+<trkpt lat="35.12835" lon="-106.35265"><ele>2131</ele></trkpt>
+<trkpt lat="35.12835" lon="-106.35265"><ele>2131</ele></trkpt>
+<trkpt lat="35.12855" lon="-106.35208"><ele>2133</ele></trkpt>
+<trkpt lat="35.12917" lon="-106.35181"><ele>2137</ele></trkpt>
+<trkpt lat="35.12917" lon="-106.35181"><ele>2137</ele></trkpt>
+<trkpt lat="35.12959" lon="-106.35228"><ele>2140</ele></trkpt>
+<trkpt lat="35.12953" lon="-106.353"><ele>2145</ele></trkpt>
+<trkpt lat="35.12987" lon="-106.35397"><ele>2145</ele></trkpt>
+<trkpt lat="35.12987" lon="-106.35397"><ele>2145</ele></trkpt>
+<trkpt lat="35.13001" lon="-106.35475"><ele>2147</ele></trkpt>
+<trkpt lat="35.13034" lon="-106.35557"><ele>2150</ele></trkpt>
+<trkpt lat="35.13034" lon="-106.35557"><ele>2150</ele></trkpt>
+<trkpt lat="35.13094" lon="-106.35576"><ele>2152</ele></trkpt>
+<trkpt lat="35.1314" lon="-106.35635"><ele>2153</ele></trkpt>
+<trkpt lat="35.13114" lon="-106.35712"><ele>2152</ele></trkpt>
+<trkpt lat="35.13114" lon="-106.35712"><ele>2152</ele></trkpt>
+<trkpt lat="35.13036" lon="-106.35678"><ele>2150</ele></trkpt>
+<trkpt lat="35.13013" lon="-106.35722"><ele>2146</ele></trkpt>
+<trkpt lat="35.12972" lon="-106.35824"><ele>2139</ele></trkpt>
+<trkpt lat="35.12972" lon="-106.35824"><ele>2139</ele></trkpt>
+<trkpt lat="35.12958" lon="-106.35935"><ele>2132</ele></trkpt>
+<trkpt lat="35.12956" lon="-106.36011"><ele>2129</ele></trkpt>
+<trkpt lat="35.12967" lon="-106.36048"><ele>2129</ele></trkpt>
+<trkpt lat="35.12967" lon="-106.36048"><ele>2129</ele></trkpt>
+<trkpt lat="35.12967" lon="-106.36048"><ele>2129</ele></trkpt>
+<trkpt lat="35.12957" lon="-106.36118"><ele>2122</ele></trkpt>
+<trkpt lat="35.12938" lon="-106.36118"><ele>2122</ele></trkpt>
+<trkpt lat="35.12938" lon="-106.36118"><ele>2122</ele></trkpt>
+<trkpt lat="35.12904" lon="-106.3603"><ele>2124</ele></trkpt>
+<trkpt lat="35.12879" lon="-106.36009"><ele>2125</ele></trkpt>
+<trkpt lat="35.12879" lon="-106.36009"><ele>2125</ele></trkpt>
+<trkpt lat="35.12875" lon="-106.36001"><ele>2125</ele></trkpt>
+<trkpt lat="35.12861" lon="-106.36032"><ele>2120</ele></trkpt>
+<trkpt lat="35.12863" lon="-106.36093"><ele>2112</ele></trkpt>
+<trkpt lat="35.12846" lon="-106.36194"><ele>2100</ele></trkpt>
+<trkpt lat="35.12846" lon="-106.36194"><ele>2100</ele></trkpt>
+<trkpt lat="35.12882" lon="-106.36278"><ele>2084</ele></trkpt>
+<trkpt lat="35.12914" lon="-106.3634"><ele>2072</ele></trkpt>
+<trkpt lat="35.12926" lon="-106.3638"><ele>2071</ele></trkpt>
+<trkpt lat="35.12867" lon="-106.3638"><ele>2072</ele></trkpt>
+<trkpt lat="35.12867" lon="-106.3638"><ele>2072</ele></trkpt>
+<trkpt lat="35.1283" lon="-106.36392"><ele>2071</ele></trkpt>
+<trkpt lat="35.12856" lon="-106.36515"><ele>2073</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   
